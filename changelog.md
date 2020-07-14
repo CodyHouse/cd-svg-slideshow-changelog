@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.3] - 2020-07-14
+- Fixed issue with multiple slideshows on a page
+
 ## [1.0.2] - 2019-10-29
 - Added CSS custom properties
 
